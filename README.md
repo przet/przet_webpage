@@ -1,2 +1,2 @@
 # przet_webpage
-Development file for przet.com
+Development files for przet.com
