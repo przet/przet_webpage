@@ -48,7 +48,7 @@ body {
     position: fixed;
     z-index: 1;
     top: 0;
-    right: 0;
+    left: 0;
     background-color: #111;
     overflow-x: hidden;
     padding-top: 20px;
@@ -67,8 +67,8 @@ body {
 }
 
 .main {
-    margin-right: 160px; /*Note this is same width as sidenav */
-    font-size: 14px;
+    margin-left: 160px; /*Note this is same width as sidenav */
+    font-size: 15px;
     padding: 0px 10px;
 }
 
