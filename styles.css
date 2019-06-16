@@ -1,5 +1,5 @@
 body {
-    background-color: powderblue;
+    background-color: silver;
     padding: 60px;
 }
 .container {
@@ -68,7 +68,9 @@ body {
 
 .main {
     margin-left: 160px; /*Note this is same width as sidenav */
-    font-size: 15px;
+    font-size: 13px;
+    font-family: "Courier New", monospace;
+    color: midnightblue;
     padding: 0px 10px;
 }
 
